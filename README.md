@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Takachi!
 
-Welcome to my GitHub! I'm just a goofy senior developper
+Welcome to my GitHub! I'm just a goofy junior developper
 
 ## My coding skills
 
