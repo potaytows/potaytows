@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Takachi]!
+# 👋 Hi there, I'm Takachi!
 
 Welcome to my GitHub! I'm just a goofy senior developper
 
@@ -16,6 +16,7 @@ Welcome to my GitHub! I'm just a goofy senior developper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
-
 
