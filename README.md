@@ -20,4 +20,4 @@ Welcome to my GitHub! I'm just a goofy senior developper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 
-[![Takachi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=potaytows)]
+![Takachi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=potaytows)
