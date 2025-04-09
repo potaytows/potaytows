@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Takachi]!
 
-Welcome to my GitHub! I'm a passionate developer with experience in a range of technologies:
+Welcome to my GitHub! I'm just a goofy senior developper
 
-## 🚀 My Tech Stack
+## My coding skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -18,13 +18,4 @@ Welcome to my GitHub! I'm a passionate developer with experience in a range of t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
 
-## 💡 About Me
-
-- 🔭 I’m currently working on exciting mobile and web applications
-- 🌱 I’m always learning new tech and improving my skills
-- 💬 Ask me about anything related to my stack
-
----
-
-📫 **Let's Connect:** [Your LinkedIn / Portfolio / Email]
 
