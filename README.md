@@ -13,6 +13,6 @@ Welcome to my GitHub! I'm just a goofy developer, Likes to debug things and a qu
 [and more various of language that i may forgot ]
 
 ## Contacts 
-- [Discord: ChiTakachi](https://www.facebook.com/Lastgamedo.ta/)
-- [Email: chizanew2@gmail.com](https://www.facebook.com/Lastgamedo.ta/)
+- Discord: ChiTakachi
+- Email: chizanew2@gmail.com
 - [Facebook](https://www.facebook.com/Lastgamedo.ta/)
