@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm just a goofy developer, Likes to debug things and a qu
 - Python, Django
 - HTML
 - MySQL, MongoDB
-and more various of language that i may forgot 
+- and various of language that i may forgot 
 
 ## Contacts 
 - Discord: ChiTakachi
