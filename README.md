@@ -4,13 +4,13 @@ Welcome to my GitHub! I'm just a goofy developer, Likes to debug things and a qu
 
 ## My coding skills
 
--[Javascript, Vue.js, Express.js, React Native, EJS]
--[PHP, Laravel]
--[Java, Spring boot]
--[Python, Django]
--[HTML]
--[MySQL, MongoDB]
-[and more various of language that i may forgot ]
+- Javascript, Vue.js, Express.js, React Native, EJS
+- PHP, Laravel
+- Java, Spring boot
+- Python, Django
+- HTML
+- MySQL, MongoDB
+and more various of language that i may forgot 
 
 ## Contacts 
 - Discord: ChiTakachi
