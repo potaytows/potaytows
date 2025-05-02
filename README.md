@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Takachi!
+# I'm Takachi!
 
-Welcome to my GitHub! I'm just a goofy developer, Likes to debug things and a quick learner
+Welcome to my GitHub! I like to debug things and i am a quick learner
 
 ## My coding skills
 
@@ -14,5 +14,5 @@ Welcome to my GitHub! I'm just a goofy developer, Likes to debug things and a qu
 
 ## Contacts 
 - Discord: ChiTakachi
-- Email: chizanew2@gmail.com
+- Email: chiza11233@gmail.com
 - [Facebook](https://www.facebook.com/Lastgamedo.ta/)
