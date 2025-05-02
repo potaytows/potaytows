@@ -14,5 +14,5 @@ Welcome to my GitHub! I like to debug things and i am a quick learner
 
 ## Contacts 
 - Discord: ChiTakachi
-- Email: chiza11233@gmail.com
+- Email: chizanew2@gmail.com
 - [Facebook](https://www.facebook.com/Lastgamedo.ta/)
