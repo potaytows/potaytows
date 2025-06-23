@@ -10,7 +10,7 @@ One of my most notable projects is **"Jonggy"**, my senior project — a restaur
 
 - **Frontend:** JavaScript, Vue.js, React Native, HTML, EJS
 - **Backend:** Express.js, PHP (Laravel), Java (Spring Boot), Python (Django)
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB, SQLite
 - **Other:** Familiar with a variety of programming languages and tools, always eager to learn more
 
 ---
