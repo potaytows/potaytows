@@ -1,22 +1,33 @@
-# Hi I'm Takachi Yakinuma!
+# 👋 Hi, I'm Takachi Yakinuma!
 
-I hold a Bachelor's degree in Information Technology from Khon Kaen University. I have hands-on experience developing mobile applications, most notably "Jonggy", which was my senior project. The app was built using React Native for the frontend, Express.js for backend APIs, and MongoDB as the database. One of the key features of Jonggy is the ability to drag and drop tables, providing a seamless user experience for restaurant table management.
+I'm a passionate developer with a Bachelor's degree in Information Technology from **Khon Kaen University**. I have hands-on experience building both mobile and web applications.
 
-I am fluent in both Thai and English, and I am comfortable communicating and working in either language. Besides React Native, I also have experience developing web and mobile applications using various technologies such as Spring Boot, React, Express, and more. I am passionate about learning new technologies and always eager to improve myself as a developer.
+One of my most notable projects is **"Jonggy"**, my senior project — a restaurant reservation app built using **React Native** (frontend), **Express.js** (API), and **MongoDB** (database). A key feature of Jonggy is its **drag-and-drop table layout**, providing a smooth user experience for restaurant staff.
 
-Thank you for considering my application. I would welcome the opportunity to discuss how I can contribute to your team.
+---
 
-## My coding skills
+## 💻 Technical Skills
 
-- Javascript, Vue.js, Express.js, React Native, EJS
-- PHP, Laravel
-- Java, Spring boot
-- Python, Django
-- HTML
-- MySQL, MongoDB
-- and various of language that i may forgot 
+- **Frontend:** JavaScript, Vue.js, React Native, HTML, EJS
+- **Backend:** Express.js, PHP (Laravel), Java (Spring Boot), Python (Django)
+- **Databases:** MySQL, MongoDB
+- **Other:** Familiar with a variety of programming languages and tools, always eager to learn more
 
-## Contacts 
-- Discord: ChiTakachi
-- Email: chizanew2@gmail.com
-- [Facebook](https://www.facebook.com/Lastgamedo.ta/)
+---
+
+## 🌐 Languages
+
+- 🇹🇭 Thai – Native  
+- 🇺🇸 English – Fluent  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: chizanew2@gmail.com  
+- 💬 Discord: ChiTakachi  
+- 🌐 [Facebook](https://www.facebook.com/Lastgamedo.ta/)
+
+---
+
+Thanks for visiting my GitHub! I'm always open to collaboration, new opportunities, and tech discussions.
